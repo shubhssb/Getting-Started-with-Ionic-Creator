@@ -1,0 +1,24 @@
+Custom Code Editing
+SUGGEST EDITS
+Custom Code Editing is an entire system in Creator that allows you to start creating completely dynamic apps from within Creator. You can use it to make calls to APIs, change what data is displayed on a page, add styles to things based on variables, and much much more.
+
+You can access the code editor by clicking on the bar that spans the bottom of your designer interface.
+
+
+When we say "Custom Code Editing" what we're talking about is some or all of the following features in the tool:
+
+JavaScript Page Controllers (How you add code to a specific page)
+Other JavaScript Files (Commonly custom Angular Services & Directives)
+External JavaScript Dependencies
+Cordova Plugin Includes (How you add native functionality to your app)
+Route Parameters (How you can pass data to a page)
+Directives (How you add dynamic functionality to Components)
+Templating Syntax (What allows you to show data on the screen)
+HTML Pages
+Debugging your App (How to fix common custom code issues)
+Addons
+Throughout this documentation site, you'll see lots of references to code and pieces of this feature, but it's also useful to look at it "all at once" to give you a good idea of how you can use Custom Coding to create your own real dynamic app.
+
+I highly recommend you watch this tutorial all the way through, just to give yourself a solid understanding of how the system works, even if you don't follow along with your own project.
+
+In it we build a ToDo list application that uses an Angular Service to fetch and store data in a Firebase database. It's only half an hour, but it'll give you a much deeper understanding of what you can really do with Creator
